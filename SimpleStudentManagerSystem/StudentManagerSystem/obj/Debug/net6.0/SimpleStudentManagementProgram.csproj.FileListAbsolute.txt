@@ -1,0 +1,15 @@
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\SimpleStudentManagementProgram.exe
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\SimpleStudentManagementProgram.deps.json
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\SimpleStudentManagementProgram.runtimeconfig.json
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\SimpleStudentManagementProgram.dll
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\SimpleStudentManagementProgram.pdb
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.csproj.AssemblyReference.cache
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.AssemblyInfoInputs.cache
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.AssemblyInfo.cs
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.csproj.CoreCompileInputs.cache
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.dll
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\refint\SimpleStudentManagementProgram.dll
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.pdb
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\SimpleStudentManagementProgram.genruntimeconfig.cache
+D:\0_CODE\C_sharp_VS2022\TEST\SimpleStudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\ref\SimpleStudentManagementProgram.dll

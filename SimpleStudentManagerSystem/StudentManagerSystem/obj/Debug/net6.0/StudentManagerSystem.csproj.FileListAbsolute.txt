@@ -1,0 +1,15 @@
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\StudentManagerSystem.exe
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\StudentManagerSystem.deps.json
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\StudentManagerSystem.runtimeconfig.json
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\StudentManagerSystem.dll
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\bin\Debug\net6.0\StudentManagerSystem.pdb
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.csproj.AssemblyReference.cache
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.AssemblyInfoInputs.cache
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.AssemblyInfo.cs
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.csproj.CoreCompileInputs.cache
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.dll
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\refint\StudentManagerSystem.dll
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.pdb
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\StudentManagerSystem.genruntimeconfig.cache
+D:\0_CODE\C_sharp_VS2022\TEST\StudentManagerSystem\StudentManagerSystem\obj\Debug\net6.0\ref\StudentManagerSystem.dll

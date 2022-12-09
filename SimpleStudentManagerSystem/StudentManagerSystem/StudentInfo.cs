@@ -16,5 +16,6 @@ namespace SimpleStudentManagementProgram
         public double Physical { get; set; }
         public double Chemical { get; set; }
         public double GPA { get; set; }
+
     }
 }

@@ -1,7 +1,6 @@
 ﻿using SimpleStudentManagementProgram;
 
 ManageStudent stud = new ManageStudent();
-
 int key;
 do
 {
@@ -17,7 +16,6 @@ do
     Console.WriteLine(" |____|_____________________________________________________|");
     Console.WriteLine(" | 0. | Exit.                                               |");
     Console.WriteLine(" |____|_____________________________________________________|");
-    
     Console.Write("\nYour selection: ");
     key = int.Parse(Console.ReadLine());
     switch (key)
@@ -58,6 +56,6 @@ do
             Console.WriteLine("\nPlease choose option in menu.");
             break;
     }
-} while (key == 0) ;
+} while (key != 0) ;
 
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -38,7 +39,7 @@ namespace SimpleStudentManagementProgram
         }
 
         /*
-         * Count number of student
+         * Return current number of student
          */
         public int NumbersOfStudent()
         {
@@ -53,7 +54,6 @@ namespace SimpleStudentManagementProgram
         /*
          * Input student information
          */
-
         public void inputStudentInfo()
         {
             // Create a new student
@@ -118,20 +118,20 @@ namespace SimpleStudentManagementProgram
          */
         public string CheckGender()
         {
-            string msg = "";
+            string gender = "";
             do
             {
-                char gender = char.Parse(Console.ReadLine());
-                switch (gender)
+                char G = char.Parse(Console.ReadLine());
+                switch (G)
                 {
                     case 'F':
                         {
-                            msg = "Female";
+                            gender = "Female";
                             break;
                         }
                     case 'M':
                         {
-                            msg = "Male";
+                            gender = "Male";
                             break;
                         }
                     default:
@@ -141,11 +141,9 @@ namespace SimpleStudentManagementProgram
                             break;
                         }
                 }
-            } while (msg == "");
-            return msg;
+            } while (gender == "");
+            return gender;
         }
-
-
 
         /*
          * Calculate GPA
@@ -166,8 +164,6 @@ namespace SimpleStudentManagementProgram
                 return stud1.GPA.CompareTo(stud2.GPA);
             });
         }
-
-
 
         /*
          * Show student list
@@ -190,7 +186,7 @@ namespace SimpleStudentManagementProgram
         }
 
         /*
-         * Get a student list
+         * Return the current list of students
          */
         public List<StudentInfo> getStudentList()
         {

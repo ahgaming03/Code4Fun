@@ -1,4 +1,4 @@
 # Code4Fun
-//Just for fun
-//No have another thing :))
+- Just for fun
+- No have another thing :))
 
